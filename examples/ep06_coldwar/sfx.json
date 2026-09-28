@@ -1,0 +1,12 @@
+{
+ "n03": [{"file": "warhead_whoosh", "at": 3.0, "db": -8}, {"file": "nuke_detonation", "at": 3.7, "db": -8}],
+ "n04": [{"file": "nuke_rumble_tail", "at": 2.8, "db": -6}],
+ "n06": [{"file": "warhead_whoosh", "at": 2.2, "db": -6}],
+ "n07": [{"file": "warhead_whoosh", "at": 1.8, "db": -7}],
+ "n08": [{"file": "nuke_rumble_tail", "at": 0.1, "db": -4}],
+ "n10": [{"file": "warhead_whoosh", "at": 2.4, "db": -6}],
+ "n11": [{"file": "nuke_detonation", "at": 0.0, "db": 0}],
+ "n12": [{"file": "nuke_blast_wave", "at": 1.0, "db": -1}],
+ "n14": [{"file": "nuke_rumble_tail", "at": 0.0, "db": -4}],
+ "n16": [{"file": "nuke_rumble_tail", "at": 0.0, "db": -3}]
+}

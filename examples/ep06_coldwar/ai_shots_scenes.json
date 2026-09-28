@@ -1,0 +1,1030 @@
+{
+ "title_candidates": [
+  "How close did we come to nuclear war?",
+  "Five times one person stopped World War III",
+  "What one warhead does to a city"
+ ],
+ "hook": "One warhead, one city, ten seconds in. And it nearly happened. At least five times.",
+ "target_seconds": 170,
+ "series_ref": "s002",
+ "topic": "Cold War nuclear close calls and what a nuclear war would do",
+ "setting": {
+  "era": "the Cold War, 1961-1995, military command posts and early-warning rooms",
+  "region": "USA, USSR/Russia, the Atlantic",
+  "palette": "cold blue-green CRT and radar glow, dark rooms, hard red warning lights, brushed steel and bakelite; outdoors grey winter light",
+  "people_style": "a Cold War military officer in period uniform, seen from behind or in silhouette, face never clearly visible",
+  "negative": "recognisable faces of real people, blacked-out or blurred or missing faces, faceless heads, blood, wounds, corpses, injured people, text, writing, letters, numbers, logos, flags with detail, modern smartphones"
+ },
+ "sources_note": "National Security Archive (B-59 2002; 3 a.m. phone call 1979-80); Wikipedia Vasily Arkhipov / 1983 Soviet false alarm / Norwegian rocket incident / 1961 Goldsboro; FAS stockpile 70,300 (1986); NUKEMAP W88 figures via Newsweek 2024; Xia et al. Nature Food 2022 (Rutgers). See research/coldwar_facts.md.",
+ "scenes": [
+  {
+   "id": "s001",
+   "beat": "hook",
+   "narration_text": "One warhead, one city, ten seconds in. And it nearly happened. At least five times.",
+   "on_screen_text": "ONE WARHEAD / 10 SECONDS",
+   "claims": [],
+   "style": "landscape",
+   "people_count": 0,
+   "edit_from": null,
+   "chain_from": null,
+   "still": "a photoreal aerial view of an ANONYMOUS, GENERIC Western-style downtown at dawn — a rectangular street grid of glass office towers, brick mid-rises and parking structures, a river with two bridges, an elevated highway — deliberately unidentifiable: NOT resembling any real city, no East-Asian apartment-block estates, no landmarks, no signs, no text; the camera high and oblique, the whole downtown filling the frame. Over the city centre a boiling orange-black fire column rises, and a perfectly circular ring of grey-white dust — the blast wave — races outward, a third of the way to the frame edge; inside the ring every block is flattened to rubble, outside it the buildings still stand. No people, no text.",
+   "setting": {
+    "era": "present day, a simulation",
+    "region": "an anonymous modern city",
+    "people_style": "nobody",
+    "palette": "photoreal, cinematic; the specific light and colour of each shot is described in the shot itself",
+    "negative": "recognisable landmarks, people, bodies, injured people, blood, text, letters, numbers, logos, flags"
+   },
+   "no_series_ref": true,
+   "motion": {
+    "shot": "high oblique aerial, wide lens, camera locked, the downtown centred.",
+    "b1": "the ring is already racing outward; buildings at its edge burst into dust as it hits them.",
+    "b2": "the ring sweeps across the whole frame, block after block collapsing into grey dust as it passes; windows flash silver; the column above boils higher.",
+    "b3": "the ring exits the frame; the city inside it a grey plain of rubble.",
+    "eye": "the ring first, then the collapsing blocks, then the column.",
+    "cam": "static",
+    "keep": "the locked camera and city layout; one ring expanding once; no people; no text",
+    "end": "the grey plain of rubble under the column."
+   }
+  },
+  {
+   "id": "s002",
+   "beat": "hook",
+   "narration_text": "The last close call wasn't 1962, but 1995. Each time, one person or one switch stopped nuclear war.",
+   "on_screen_text": "1995",
+   "claims": [],
+   "style": "landscape",
+   "people_count": 0,
+   "edit_from": null,
+   "chain_from": null,
+   "still": "Close view of a dark analogue countdown clock on a Cold War console: a round dial with a red sweep hand, a small red lamp beside it lit, brushed-steel panel around it, blurred green CRT light beyond. no legible text, letters or numbers anywhere on screens or panels — the dial face is plain with tick marks only. No people.",
+   "setting": null,
+   "no_series_ref": false,
+   "motion": {
+    "shot": "close view of the dial, medium-long lens, shallow focus, the red hand centred.",
+    "b1": "the red sweep hand is already ticking; the small lamp beside it glows.",
+    "b2": "the hand ticks on; the camera pushes in until the dial fills the frame.",
+    "b3": "the hand stops. Everything still.",
+    "eye": "the ticking hand first, then the red lamp, then the dial face.",
+    "cam": "slow_push_in",
+    "keep": "the plain dial with tick marks only, no numbers; the console; nobody",
+    "end": "the red hand frozen on the dial."
+   }
+  },
+  {
+   "id": "s002b",
+   "beat": "context",
+   "narration_text": "After 1945, two superpowers split the world: America and NATO, the Soviet Union and the Warsaw Pact.",
+   "on_screen_text": "USA vs USSR",
+   "claims": [
+    "After the Second World War the world split into a US-led bloc (NATO, founded 1949) and a Soviet-led bloc (the Warsaw Pact, founded 1955)."
+   ],
+   "style": "map",
+   "people_count": 0,
+   "edit_from": null,
+   "chain_from": null,
+   "still": "A dark Cold War situation-room wall display: a flat map of the northern hemisphere in dim lines on black, the Atlantic in the middle — North America on the left and Western Europe glowing a soft BLUE, the Soviet Union and Eastern Europe on the right glowing a soft RED, a thin bright white line running north-south through the middle of Europe where the two colours meet. No text, no labels, no flags, no symbols.",
+   "setting": null,
+   "no_series_ref": false,
+   "motion": {
+    "shot": "straight-on view of the wall display, medium lens, both blocs in frame.",
+    "b1": "the blue and red glows are already pulsing faintly, like two breathing lungs.",
+    "b2": "the white dividing line through Europe brightens; the blue and the red glows pulse harder, pressing against it.",
+    "b3": "the two colours pressed against the bright line.",
+    "eye": "the blue bloc first, then the red bloc, then the line between them.",
+    "cam": "static",
+    "keep": "the map, two colours, one line; no text, no labels, no flags",
+    "end": "the two blocs pressed against the bright line."
+   }
+  },
+  {
+   "id": "s003",
+   "beat": "before",
+   "narration_text": "They never fought directly. Instead, by 1986: seventy thousand warheads, aimed at each other.",
+   "on_screen_text": "70,000 WARHEADS",
+   "claims": [
+    "The global nuclear warhead stockpile peaked at about 70,300 in 1986."
+   ],
+   "style": "landscape",
+   "people_count": 0,
+   "edit_from": null,
+   "chain_from": null,
+   "still": "A vast underground concrete hall lit by cold strip lights, and in it endless rows of identical dark-grey conical nuclear warheads standing upright on steel cradles, receding into haze, hundreds visible, the rows perfectly regular. No people, no markings, no text.",
+   "setting": null,
+   "no_series_ref": false,
+   "motion": {
+    "shot": "eye level down the central aisle, wide lens, the rows converging to a vanishing point.",
+    "b1": "the strip lights are already flickering faintly; the rows stand still.",
+    "b2": "the camera glides slowly forward down the aisle, warheads sliding past on both sides.",
+    "b3": "the camera slows, the rows still receding ahead.",
+    "eye": "the nearest warheads first, then the receding rows, then the haze at the end.",
+    "cam": "slow_push_in",
+    "keep": "identical warheads, the concrete hall; nobody appears; no text",
+    "end": "the endless rows receding into haze."
+   }
+  },
+  {
+   "id": "s004",
+   "beat": "before",
+   "narration_text": "A missile crosses the ocean in thirty minutes. A president gets under ten.",
+   "on_screen_text": "30 MIN · <10 MIN",
+   "claims": [
+    "An ICBM flight between Russia and the USA takes about 30 minutes.",
+    "Under launch-on-warning a US president may have less than 10 minutes to decide on a nuclear response."
+   ],
+   "style": "map",
+   "people_count": 0,
+   "edit_from": null,
+   "chain_from": null,
+   "still": "A dark situation-room wall display: a flat world map in dim green on black, North America left, Eurasia right, the Arctic at top; a single thin bright arc drawn from northern Russia over the pole toward the middle of North America, its tip a bright dot. No text, no labels, no borders drawn.",
+   "setting": null,
+   "no_series_ref": false,
+   "motion": {
+    "shot": "straight-on view of the wall display, medium lens, the whole arc in frame.",
+    "b1": "the bright dot at the arc's tip is already creeping along the arc toward North America.",
+    "b2": "the dot crosses the pole and moves on down toward the continent, a faint trail behind it.",
+    "b3": "the dot is two-thirds of the way, still moving.",
+    "eye": "the dot first, then the arc, then the dark continent ahead of it.",
+    "cam": "static",
+    "keep": "the map, one arc, one dot; no text, no borders",
+    "end": "the dot nearing North America."
+   }
+  },
+  {
+   "id": "s004b",
+   "beat": "context",
+   "narration_text": "October 1962. The Soviets secretly put nuclear missiles in Cuba. America blockades the island.",
+   "on_screen_text": "CUBAN MISSILE CRISIS",
+   "claims": [
+    "In 1962 the Soviet Union secretly deployed nuclear-armed missiles to Cuba.",
+    "In October 1962 the United States imposed a naval blockade, called a quarantine, around Cuba.",
+    "Cuba lies about 145 km (90 miles) from Florida."
+   ],
+   "style": "map",
+   "people_count": 0,
+   "edit_from": null,
+   "chain_from": null,
+   "still": "A dark situation-room wall display: a flat map of the Caribbean in dim green lines on black — the tip of Florida at the top, the long thin island of Cuba across the middle; on Cuba a few small RED dots glowing; around Cuba a wide dashed arc of small bright WHITE dots — ships — curving around the island. No text, no labels, no flags, no borders drawn.",
+   "setting": null,
+   "no_series_ref": false,
+   "motion": {
+    "shot": "straight-on view of the wall display, medium lens, Florida and Cuba both in frame.",
+    "b1": "the red dots on Cuba are already pulsing slowly.",
+    "b2": "the white ship dots creep along the arc, closing the gaps until the dashed line around Cuba is almost solid.",
+    "b3": "the ring of ships almost closed, the red dots pulsing inside it.",
+    "eye": "the red dots first, then the ring of ships, then Florida above.",
+    "cam": "static",
+    "keep": "the map, red dots on Cuba, white ship dots; no text, no labels",
+    "end": "the ring of ships closing around Cuba."
+   }
+  },
+  {
+   "id": "s005",
+   "beat": "action",
+   "narration_text": "Near the blockade, a Soviet submarine has lost contact with Moscow.",
+   "on_screen_text": "OCT 27, 1962",
+   "claims": [
+    "On 27 October 1962 the Soviet submarine B-59 had been out of contact with Moscow for days."
+   ],
+   "style": "landscape",
+   "people_count": 2,
+   "edit_from": null,
+   "chain_from": null,
+   "still": "Inside a cramped Soviet diesel submarine control room, 1962, lit only by dim red battle lamps: dripping pipes, brass valves, sweating steel, a periscope well. Exactly two officers in sweat-soaked dark shirts stand at the controls, seen from BEHIND, shoulders hunched, faces not visible. Condensation runs down the bulkheads. no legible text, letters or numbers anywhere on screens or panels.",
+   "setting": {
+    "era": "October 1962, inside a Soviet Foxtrot-class diesel submarine — a sealed steel hull with NO windows, NO portholes, NO skylights, NO view of sky or sea anywhere, solid steel and pipes overhead",
+    "people_style": "a Soviet submarine officer in a sweat-soaked dark shirt and officer's cap, seen from behind or in profile in deep shadow, face not clearly visible",
+    "palette": "dim red battle lighting, dripping brass and steel, sweat, condensation, deep shadow"
+   },
+   "no_series_ref": false,
+   "motion": {
+    "shot": "eye level from the rear of the control room, wide lens, the two officers' backs and the red-lit instruments.",
+    "b1": "sweat and condensation are already dripping; the red lamps glow steady; one officer wipes his neck.",
+    "b2": "the deck tilts very slightly; a drop falls from a pipe; the men sway and steady themselves.",
+    "b3": "still, the red lamps glowing.",
+    "eye": "the two backs first, then the dripping pipes, then the red lamps.",
+    "cam": "static",
+    "keep": "exactly two officers who stay with their backs to the camera; the red-lit control room; no text; no faces",
+    "end": "two hunched backs in red light."
+   }
+  },
+  {
+   "id": "s006",
+   "beat": "action",
+   "narration_text": "American ships drop practice depth charges to force it up. Inside: forty degrees, no orders.",
+   "on_screen_text": "DEPTH CHARGES",
+   "claims": [
+    "US Navy ships dropped practice depth charges on B-59 to force it to surface.",
+    "B-59's air conditioning had failed and temperatures inside rose above 40 degrees Celsius."
+   ],
+   "style": "landscape",
+   "people_count": 2,
+   "edit_from": null,
+   "chain_from": null,
+   "still": "Inside the same red-lit Soviet submarine control room, 1962: exactly two officers seen from BEHIND gripping a rail, heads down. Dust and flakes of paint hang in the air; a hanging lamp swings. no legible text, letters or numbers anywhere on screens or panels.",
+   "setting": {
+    "era": "October 1962, inside a Soviet Foxtrot-class diesel submarine — a sealed steel hull with NO windows, NO portholes, NO skylights, NO view of sky or sea anywhere, solid steel and pipes overhead",
+    "people_style": "a Soviet submarine officer in a sweat-soaked dark shirt and officer's cap, seen from behind or in profile in deep shadow, face not clearly visible",
+    "palette": "dim red battle lighting, dripping brass and steel, sweat, condensation, deep shadow"
+   },
+   "no_series_ref": false,
+   "motion": {
+    "shot": "eye level, wide lens, the two officers' backs, the swinging lamp above them.",
+    "b1": "the hanging lamp is already swinging; dust drifts down through the red light.",
+    "b2": "a dull concussion: the whole frame shudders, more dust and paint flakes shake loose, the lamp swings harder, the men brace.",
+    "b3": "a second, softer shudder; the lamp swings; they hold on.",
+    "eye": "the swinging lamp first, then the falling dust, then the braced backs.",
+    "cam": "static",
+    "keep": "exactly two officers with backs to the camera, the same control room; the concussion is felt, NOT seen — NO flash, NO fire, NO explosion, NO sparks inside the room, only shaking, falling dust and the swinging lamp; nothing breaks or floods; no text; no faces",
+    "end": "dust settling in red light, the lamp still swinging."
+   }
+  },
+  {
+   "id": "s007",
+   "beat": "complication",
+   "narration_text": "The captain orders the nuclear torpedo readied. Firing needs three officers. Two agree.",
+   "on_screen_text": "2 OF 3",
+   "claims": [
+    "B-59 carried a nuclear torpedo.",
+    "Firing B-59's nuclear torpedo required the agreement of three senior officers."
+   ],
+   "style": "landscape",
+   "people_count": 3,
+   "edit_from": null,
+   "chain_from": null,
+   "still": "Inside the red-lit Soviet submarine, 1962, a TIGHT overhead close-up looking straight DOWN onto the top of a small round brass chart table under one hanging lamp: the table top fills the frame; on the chart lie three brass keys side by side. Entering the frame from three sides are only uniformed FOREARMS and HANDS — no torsos, no shoulders, no heads, no faces, no lamp shade in frame. From the left and from the top, one hand each rests flat on a key; from the right, only the edge of a sleeve at the frame border, its key untouched. Sweat on the sleeves, condensation on the brass. no legible text, letters or numbers anywhere on screens or panels.",
+   "setting": {
+    "era": "October 1962, inside a Soviet Foxtrot-class diesel submarine — a sealed steel hull with NO windows, NO portholes, NO skylights, NO view of sky or sea anywhere, solid steel and pipes overhead",
+    "people_style": "a Soviet submarine officer in a sweat-soaked dark shirt and officer's cap, seen from behind or in profile in deep shadow, face not clearly visible",
+    "palette": "dim red battle lighting, dripping brass and steel, sweat, condensation, deep shadow"
+   },
+   "no_series_ref": false,
+   "motion": {
+    "shot": "straight-down overhead close-up, medium lens, the table top filling the frame, the three keys in sharp focus, only forearms entering from the edges.",
+    "b1": "the lamp is already swaying slightly, its light sliding over the three keys.",
+    "b2": "the two hands on the keys tighten; the third man's hands stay at his sides; the camera pushes in slowly on the keys.",
+    "b3": "the three keys fill the lower frame, two hands on them, one key untouched.",
+    "eye": "the three keys first, then the two hands, then the empty space by the third key.",
+    "cam": "slow_push_in",
+    "keep": "three keys that never move, two hands that stay resting on their keys, a third sleeve that stays at the frame edge and never reaches in; NO heads, faces, torsos or lamp ever enter the frame; no text",
+    "end": "two hands on two keys, the third key alone."
+   }
+  },
+  {
+   "id": "s008",
+   "beat": "reveal",
+   "narration_text": "The third, Vasily Arkhipov, says no. The sub surfaces. Nobody knew until 2002.",
+   "on_screen_text": "ARKHIPOV SAID NO",
+   "claims": [
+    "Vasily Arkhipov refused to agree to launching B-59's nuclear torpedo and the submarine surfaced.",
+    "The B-59 incident became public in 2002."
+   ],
+   "style": "landscape",
+   "people_count": 1,
+   "edit_from": null,
+   "chain_from": null,
+   "still": "Night on the open Atlantic, 1962: a black Soviet submarine's conning tower breaking the surface, water sheeting off it, and on top exactly one officer in a dark coat and cap, seen from BEHIND, small against a grey-black sea and low cloud; far off, the searchlights of two warships as pale smears. No faces, no text.",
+   "setting": {
+    "era": "October 1962, inside a Soviet Foxtrot-class diesel submarine — a sealed steel hull with NO windows, NO portholes, NO skylights, NO view of sky or sea anywhere, solid steel and pipes overhead",
+    "people_style": "a Soviet submarine officer in a sweat-soaked dark shirt and officer's cap, seen from behind or in profile in deep shadow, face not clearly visible",
+    "palette": "dim red battle lighting, dripping brass and steel, sweat, condensation, deep shadow"
+   },
+   "no_series_ref": false,
+   "motion": {
+    "shot": "low view from the water, medium lens, the tower and the lone officer's back against the sky.",
+    "b1": "water is already sheeting off the tower; the searchlights sweep slowly in the distance.",
+    "b2": "the officer lifts his head toward the searchlights; spray drifts; the tower rocks gently.",
+    "b3": "he stands still, facing the lights.",
+    "eye": "the surfacing tower first, then the officer's back, then the distant searchlights.",
+    "cam": "static",
+    "keep": "exactly one officer with his back to the camera on the tower; the sea and the distant lights; no faces; no text",
+    "end": "one small figure on the tower facing the searchlights."
+   }
+  },
+  {
+   "id": "s009",
+   "beat": "action",
+   "narration_text": "Three a.m., June 1980. The phone rings beside President Carter's security adviser.",
+   "on_screen_text": "3 A.M. / JUNE 3, 1980",
+   "claims": [
+    "On 3 June 1980 National Security Adviser Zbigniew Brzezinski was woken around 3 a.m. by a call reporting a Soviet missile launch."
+   ],
+   "style": "landscape",
+   "people_count": 1,
+   "edit_from": null,
+   "chain_from": null,
+   "still": "A dark bedroom in Washington, 1980: a beige rotary telephone on a bedside table under a small warm lamp that has just been switched on, and behind it exactly one man of about fifty in a dressing gown sitting on the edge of the bed, seen from BEHIND, his hand reaching for the receiver. Cold moonlight through a window. no legible text, letters or numbers anywhere on screens or panels.",
+   "setting": {
+    "era": "3 June 1980, a dark bedroom and a study in Washington DC at 3 a.m.",
+    "people_style": "a man of about 50 in a dressing gown, seen from behind or in silhouette against a lamp, face never visible",
+    "palette": "near-black room, one warm bedside lamp, cold blue moonlight from a window, a beige rotary telephone"
+   },
+   "no_series_ref": false,
+   "motion": {
+    "shot": "eye level from behind the man's shoulder, medium lens, the telephone in sharp focus.",
+    "b1": "the man is already reaching; his hand closes on the receiver and lifts it.",
+    "b2": "he holds the receiver to his ear, motionless, shoulders stiffening.",
+    "b3": "he sits frozen, receiver at his ear.",
+    "eye": "the reaching hand first, then the receiver lifting, then the stiff shoulders.",
+    "cam": "slow_push_in",
+    "keep": "exactly one man seen only from behind; the lamp, the phone, the window; no face; no text",
+    "end": "the man frozen with the receiver at his ear."
+   }
+  },
+  {
+   "id": "s010",
+   "beat": "complication",
+   "narration_text": "America's warning computers: two hundred Soviet missiles incoming. A second call: over two thousand.",
+   "on_screen_text": "200 → 2,000+",
+   "claims": [
+    "During the 3 June 1980 NORAD false alarm, displays reported first about 200 and then about 2,000 incoming Soviet missiles."
+   ],
+   "style": "landscape",
+   "people_count": 0,
+   "edit_from": null,
+   "chain_from": null,
+   "still": "The NORAD operations centre inside Cheyenne Mountain, 1980: a huge wall display showing a dim outline of North America in green on black, and across the top of the continent a dense swarm of hundreds of tiny bright dots arcing down from the north; rows of empty consoles glowing amber below; red alert lamps along the ceiling. no legible text, letters or numbers anywhere on screens or panels. No people.",
+   "setting": {
+    "era": "1980, the NORAD operations centre inside Cheyenne Mountain",
+    "people_style": "a US Air Force officer in 1980 uniform seen from behind at a console",
+    "palette": "green and amber CRT glow, big wall display maps, dark blue room, red alert lamps"
+   },
+   "no_series_ref": false,
+   "motion": {
+    "shot": "straight-on view of the wall display from the back of the room, wide lens, the swarm filling the top of the map.",
+    "b1": "the red ceiling lamps are already flashing; the swarm of dots is creeping south.",
+    "b2": "more dots pour in from the top edge, the swarm thickening; the camera pushes in on the map.",
+    "b3": "the map fills the frame, the dots still coming.",
+    "eye": "the swarm first, then the flashing red lamps, then the empty consoles.",
+    "cam": "slow_push_in",
+    "keep": "the map, the dots, the empty consoles; no people; no text or numbers",
+    "end": "the map dark with dots."
+   }
+  },
+  {
+   "id": "s011",
+   "beat": "complication",
+   "narration_text": "He doesn't wake his wife; everyone dies in half an hour. One minute before calling the president—",
+   "on_screen_text": "ONE MINUTE",
+   "claims": [
+    "Brzezinski did not wake his wife during the 1980 false alarm, reasoning that everyone would be dead within half an hour.",
+    "Brzezinski was about one minute from calling President Carter when the alarm was cancelled."
+   ],
+   "style": "landscape",
+   "people_count": 1,
+   "edit_from": null,
+   "chain_from": null,
+   "still": "A dark study in Washington, 1980: exactly one man in a dressing gown standing at a desk, seen from BEHIND, one hand flat on the desk, the other holding a beige telephone receiver halfway between the cradle and his ear; a desk lamp; a window with cold moonlight; a closed door to the bedroom behind him. no legible text, letters or numbers anywhere on screens or panels.",
+   "setting": {
+    "era": "3 June 1980, a dark bedroom and a study in Washington DC at 3 a.m.",
+    "people_style": "a man of about 50 in a dressing gown, seen from behind or in silhouette against a lamp, face never visible",
+    "palette": "near-black room, one warm bedside lamp, cold blue moonlight from a window, a beige rotary telephone"
+   },
+   "no_series_ref": false,
+   "motion": {
+    "shot": "eye level from behind, medium lens, the receiver half-raised in the centre of the frame.",
+    "b1": "the receiver is already rising slowly toward his ear; the lamp is steady.",
+    "b2": "he stops with the receiver an inch from his ear and holds it there, absolutely still; the camera pushes in on his hand.",
+    "b3": "the hand and receiver frozen, filling the frame.",
+    "eye": "the half-raised receiver first, then the closed bedroom door, then the frozen hand.",
+    "cam": "slow_push_in",
+    "keep": "exactly one man seen only from behind for the whole clip — his back stays square to the camera, he NEVER turns his head or body, his face is never visible even in profile; the camera stays behind him; the closed door stays closed; no text",
+    "end": "the receiver frozen an inch from his ear."
+   }
+  },
+  {
+   "id": "s012",
+   "beat": "reveal",
+   "narration_text": "—the phone rings again. Nothing is coming. A forty-six-cent chip was inventing missiles.",
+   "on_screen_text": "A 46-CENT CHIP",
+   "claims": [
+    "The June 1980 NORAD false alarm was caused by a faulty computer chip costing 46 cents."
+   ],
+   "style": "landscape",
+   "people_count": 0,
+   "edit_from": null,
+   "chain_from": null,
+   "still": "Extreme close-up of a small black 1970s integrated-circuit chip with metal legs, lying alone on a green circuit board, one leg slightly discoloured, under hard cold light; the board's traces soft in the background. No text or markings on the chip. No people.",
+   "setting": {
+    "era": "1980, the NORAD operations centre inside Cheyenne Mountain",
+    "people_style": "a US Air Force officer in 1980 uniform seen from behind at a console",
+    "palette": "green and amber CRT glow, big wall display maps, dark blue room, red alert lamps"
+   },
+   "no_series_ref": true,
+   "motion": {
+    "shot": "macro close-up, the chip centred, shallow focus.",
+    "b1": "the hard light already glints on the chip's legs.",
+    "b2": "the camera pushes in very slowly until the chip fills the frame, a faint flicker of light running across it.",
+    "b3": "the chip, still, filling the frame.",
+    "eye": "the chip first, then the discoloured leg, then the board traces.",
+    "cam": "slow_push_in",
+    "keep": "one chip on one board, no text or markings; no people",
+    "end": "the tiny chip filling the frame."
+   }
+  },
+  {
+   "id": "s013",
+   "beat": "action",
+   "narration_text": "September 1983. Midnight in a Soviet bunker near Moscow. Sirens. The screen: American missile launch.",
+   "on_screen_text": "SEPT 26, 1983",
+   "claims": [
+    "On 26 September 1983 the Soviet early-warning system at Serpukhov-15 reported a US missile launch shortly after midnight."
+   ],
+   "style": "landscape",
+   "people_count": 1,
+   "edit_from": null,
+   "chain_from": null,
+   "still": "The Serpukhov-15 early-warning bunker, 1983: a long dim room of consoles facing a giant wall map of the northern hemisphere in dark green — a PLAIN map: coastlines only, absolutely NO place names, NO labels, NO lettering, NO country names printed on it — and above the map one huge rectangular red panel glowing bright, blank, with no writing; exactly one officer in uniform seen from BEHIND standing up from his chair at the central console. Red rotating lamps along the ceiling. no legible text, letters or numbers anywhere on screens or panels.",
+   "setting": {
+    "era": "26 September 1983, the Serpukhov-15 early-warning bunker near Moscow — deep UNDERGROUND: solid concrete ceiling, NO windows, NO skylights, NO daylight; every wall map is a PLAIN coastline map with absolutely NO lettering, NO place names, NO labels",
+    "people_style": "a Soviet Air Defence lieutenant colonel in uniform seen from behind at a console",
+    "palette": "dim bunker, rows of consoles, a giant plain unlabelled wall map, a blank glowing red warning panel, cold fluorescent light"
+   },
+   "no_series_ref": false,
+   "motion": {
+    "shot": "eye level from the back of the room, wide lens, the officer's back centred against the red panel.",
+    "b1": "the red panel is already glowing steadily and the ceiling lamps rotating; the officer is rising to his feet.",
+    "b2": "he stands rigid, hands on the console edge; the red light pulses slowly over his back — the panel only pulses, it NEVER sparks, flares, flames or throws light streaks.",
+    "b3": "he does not move.",
+    "eye": "the red panel first, then the officer's back, then the rotating lamps.",
+    "cam": "static",
+    "keep": "exactly one officer seen only from behind; the red panel stays lit; no text; no face",
+    "end": "the officer standing rigid before the red panel."
+   }
+  },
+  {
+   "id": "s014",
+   "beat": "complication",
+   "narration_text": "One American missile, then five. Protocol says report it. Above him, they would launch.",
+   "on_screen_text": "FIVE MISSILES",
+   "claims": [
+    "The 1983 Serpukhov-15 alarm reported one US missile and then four more, five in total."
+   ],
+   "style": "landscape",
+   "people_count": 0,
+   "edit_from": null,
+   "chain_from": null,
+   "still": "Close view of a 1983 Soviet console screen: a dark green display showing a plain outline of North America, and over it five small bright rising dots in a row with short trails, each ringed by a thin red circle; beside the screen a row of five red indicator lamps, all lit. no legible text, letters or numbers anywhere on screens or panels. No people.",
+   "setting": {
+    "era": "26 September 1983, the Serpukhov-15 early-warning bunker near Moscow — deep UNDERGROUND: solid concrete ceiling, NO windows, NO skylights, NO daylight; every wall map is a PLAIN coastline map with absolutely NO lettering, NO place names, NO labels",
+    "people_style": "a Soviet Air Defence lieutenant colonel in uniform seen from behind at a console",
+    "palette": "dim bunker, rows of consoles, a giant plain unlabelled wall map, a blank glowing red warning panel, cold fluorescent light"
+   },
+   "no_series_ref": true,
+   "motion": {
+    "shot": "close view of the screen, medium-long lens, the five dots centred.",
+    "b1": "the five red lamps are already lit; the dots' trails lengthen slowly.",
+    "b2": "the camera pushes in on the screen until the five dots fill the frame, their red rings pulsing.",
+    "b3": "the five dots, pulsing, still.",
+    "eye": "the five lamps first, then the five dots, then the pulsing rings.",
+    "cam": "slow_push_in",
+    "keep": "EXACTLY five dots that stay five — they never multiply, split, join up with lines or grow rings; five lamps; no text or numbers; no people",
+    "end": "five pulsing dots on green."
+   }
+  },
+  {
+   "id": "s015",
+   "beat": "reveal",
+   "narration_text": "Petrov thinks: a real attack means hundreds. Radar shows nothing. He calls it a malfunction.",
+   "on_screen_text": "PETROV: MALFUNCTION",
+   "claims": [
+    "Stanislav Petrov judged the 1983 alarm to be false because a real US first strike would involve hundreds of missiles, and ground radar showed nothing."
+   ],
+   "style": "landscape",
+   "people_count": 1,
+   "edit_from": null,
+   "chain_from": null,
+   "still": "The Serpukhov-15 bunker, 1983: exactly one officer seen from BEHIND sitting back down at the central console, one hand holding a black telephone receiver to his ear, the other resting on the console; the giant red panel above the wall map still glowing; the room otherwise empty. no legible text, letters or numbers anywhere on screens or panels.",
+   "setting": {
+    "era": "26 September 1983, the Serpukhov-15 early-warning bunker near Moscow — deep UNDERGROUND: solid concrete ceiling, NO windows, NO skylights, NO daylight; every wall map is a PLAIN coastline map with absolutely NO lettering, NO place names, NO labels",
+    "people_style": "a Soviet Air Defence lieutenant colonel in uniform seen from behind at a console",
+    "palette": "dim bunker, rows of consoles, a giant plain unlabelled wall map, a blank glowing red warning panel, cold fluorescent light"
+   },
+   "no_series_ref": false,
+   "motion": {
+    "shot": "eye level from behind the officer's chair, medium lens, his back and the receiver, the red panel beyond.",
+    "b1": "he is already lowering himself into the chair, the receiver at his ear.",
+    "b2": "he speaks — his shoulders move once — then sits very still; the red panel keeps glowing.",
+    "b3": "still, receiver at his ear.",
+    "eye": "the receiver first, then his back, then the red panel.",
+    "cam": "slow_push_in",
+    "keep": "exactly one officer seen only from behind; the red panel stays lit; no text; no face",
+    "end": "the officer still at the console, receiver at his ear."
+   }
+  },
+  {
+   "id": "s016",
+   "beat": "reveal",
+   "narration_text": "Sunlight on high clouds. He was right. His reward: a reprimand, and early retirement.",
+   "on_screen_text": "SUNLIGHT ON CLOUDS",
+   "claims": [
+    "The 1983 Soviet false alarm was caused by sunlight reflecting off high-altitude clouds.",
+    "After the 1983 incident Petrov received no reward, was reprimanded over paperwork and later took early retirement."
+   ],
+   "style": "landscape",
+   "people_count": 0,
+   "edit_from": null,
+   "chain_from": null,
+   "still": "View from high above the Earth at the edge of space: a layer of bright white high-altitude clouds over a dark autumn landscape, and low sunlight glancing off the cloud tops in a blinding narrow streak of white glare, the curve of the horizon and the black of space above. No people, no text.",
+   "setting": {
+    "era": "September 1983, seen from orbit",
+    "people_style": "nobody",
+    "negative": "recognisable faces of real people, blacked-out or blurred or missing faces, faceless heads, blood, wounds, corpses, injured people, text, writing, letters, numbers, logos, flags with detail, modern smartphones"
+   },
+   "no_series_ref": true,
+   "motion": {
+    "shot": "high orbital view, wide lens, the glare streak on the clouds centred, the horizon curving.",
+    "b1": "the glare on the cloud tops is already flaring; the clouds drift very slowly.",
+    "b2": "the sun angle shifts a fraction and the glare brightens to a hard white line, then softens again.",
+    "b3": "the clouds drift on, the glare fading.",
+    "eye": "the glare first, then the cloud layer, then the horizon and space.",
+    "cam": "static",
+    "keep": "the clouds, the glare, the horizon; nothing else appears; no text",
+    "end": "the fading glare on the clouds."
+   }
+  },
+  {
+   "id": "s017",
+   "beat": "action",
+   "narration_text": "January 1995. The Soviet Union is gone, but Russia keeps its missiles. Norway launches a science rocket.",
+   "on_screen_text": "JAN 25, 1995",
+   "claims": [
+    "On 25 January 1995 a Norwegian-US Black Brant XII sounding rocket was launched from Andøya to study the aurora."
+   ],
+   "style": "landscape",
+   "people_count": 0,
+   "edit_from": null,
+   "chain_from": null,
+   "still": "ONE single continuous photograph — NOT a split image, NO panels, NO second scene, no indoor elements: a snowbound rocket range on the Norwegian coast at dawn, 1995: a slender four-stage white sounding rocket climbing on a bright plume from a small launcher, snow blown outward, dark sea and mountains behind, faint green aurora fading in the pale sky. No people, no text.",
+   "setting": {
+    "era": "25 January 1995, the Andøya rocket range on the Norwegian Arctic coast at dawn, outdoors only",
+    "region": "northern Norway",
+    "people_style": "nobody",
+    "palette": "pale arctic dawn, snow, dark sea, faint green aurora, one bright rocket plume",
+    "negative": "recognisable faces of real people, blacked-out or blurred or missing faces, faceless heads, blood, wounds, corpses, injured people, text, writing, letters, numbers, logos, flags with detail, modern smartphones"
+   },
+   "no_series_ref": true,
+   "motion": {
+    "shot": "low wide view from the snow, wide lens, the rocket climbing out of the top of the frame.",
+    "b1": "the rocket is already lifting, snow blasting outward from the launcher.",
+    "b2": "it climbs fast on its plume, shrinking, the plume bending in the wind; the camera tilts up to follow.",
+    "b3": "the rocket is a bright point high in the pale sky, the plume drifting.",
+    "eye": "the lift-off first, then the snow blast, then the climbing point.",
+    "cam": "slow_tilt_up",
+    "keep": "one rocket, the snowy range, the sea; no people; no text",
+    "end": "the rocket a bright point high in the sky."
+   }
+  },
+  {
+   "id": "s018",
+   "beat": "complication",
+   "narration_text": "On Russian radar it looks like an American Trident missile. For the first time, the nuclear briefcase opens.",
+   "on_screen_text": "THE BRIEFCASE OPENS",
+   "claims": [
+    "Russian early-warning radar interpreted the 1995 Norwegian rocket as resembling a US Trident submarine-launched missile.",
+    "In the 1995 Norwegian rocket incident the Russian nuclear briefcase (Cheget) was activated for the first known time."
+   ],
+   "style": "landscape",
+   "people_count": 1,
+   "edit_from": null,
+   "chain_from": null,
+   "still": "A dark wood-panelled Kremlin office, 1995, grey winter light from tall windows: on a green-leather desk a black hard-shell briefcase lies OPEN, its inside a panel of dark buttons and a small screen glowing faintly; exactly one man in a dark suit stands over it, seen from BEHIND, hands on the desk either side of the case. no legible text, letters or numbers anywhere on screens or panels.",
+   "setting": {
+    "era": "25 January 1995, the Kremlin and a Russian early-warning radar station in winter",
+    "people_style": "a Russian officer or official in a dark 1990s suit or uniform, seen from behind",
+    "palette": "grey winter light, snow, dark wood panelling, a black briefcase, cold radar green"
+   },
+   "no_series_ref": false,
+   "motion": {
+    "shot": "eye level from behind the man, medium lens, the open briefcase between his hands in sharp focus.",
+    "b1": "the small screen inside the case is already glowing; the man's hands press on the desk.",
+    "b2": "the camera pushes in slowly between his arms onto the open case; the screen's glow brightens.",
+    "b3": "the open case fills the frame.",
+    "eye": "the open lid first, then the glowing panel, then the two hands.",
+    "cam": "slow_push_in",
+    "keep": "exactly one man seen only from behind; the case stays open; no text or numbers on the panel; no face",
+    "end": "the open briefcase, glowing."
+   }
+  },
+  {
+   "id": "s019",
+   "beat": "reveal",
+   "narration_text": "Ten minutes to decide. Eight pass. Then the track turns out to sea. Norway's warning never arrived.",
+   "on_screen_text": "8 OF 10 MINUTES",
+   "claims": [
+    "Russian officers had about 10 minutes to decide on a response to the 1995 Norwegian rocket and spent about 8 of them tracking it.",
+    "Norway had notified Russia of the 1995 rocket launch in advance but the notice never reached the Russian military."
+   ],
+   "style": "landscape",
+   "people_count": 0,
+   "edit_from": null,
+   "chain_from": null,
+   "still": "Close view of a 1995 Russian radar scope: a round green screen, a sweep line turning, and one bright track with a dotted tail curving away from a dark coastline toward open sea; beside the scope a plain analogue clock with tick marks only. no legible text, letters or numbers anywhere on screens or panels. No people.",
+   "setting": {
+    "era": "25 January 1995, the Kremlin and a Russian early-warning radar station in winter",
+    "people_style": "a Russian officer or official in a dark 1990s suit or uniform, seen from behind",
+    "palette": "grey winter light, snow, dark wood panelling, a black briefcase, cold radar green"
+   },
+   "no_series_ref": true,
+   "motion": {
+    "shot": "close view of the scope, medium-long lens, the curving track centred.",
+    "b1": "the sweep line is already turning; the track's dotted tail lengthens.",
+    "b2": "with each sweep the track bends further away from the coast, out over the open sea; the clock's hand moves.",
+    "b3": "the track is well out to sea; the sweep keeps turning.",
+    "eye": "the sweep first, then the bending track, then the clock.",
+    "cam": "static",
+    "keep": "one scope, one track, one plain clock; no text or numbers; no people",
+    "end": "the track curving away over the sea."
+   }
+  },
+  {
+   "id": "s020",
+   "beat": "scale",
+   "narration_text": "1961: an American B-52 breaks up over North Carolina, dropping two hydrogen bombs. One switch holds.",
+   "on_screen_text": "ONE SWITCH HELD",
+   "claims": [
+    "In January 1961 a B-52 broke up over Goldsboro, North Carolina, dropping two Mark 39 hydrogen bombs.",
+    "A 1969 Sandia memo concluded that on one of the Goldsboro bombs three of four safety mechanisms failed and a single low-voltage switch prevented detonation."
+   ],
+   "style": "landscape",
+   "people_count": 2,
+   "edit_from": null,
+   "chain_from": null,
+   "still": "A ploughed field in North Carolina at night, January 1961: a large grey bomb casing the size of a car lying half-buried in mud, its white parachute spread across the furrows behind it; exactly two airmen in parkas standing well back, seen from behind, flashlight beams on the casing; bare winter trees. No text, no markings on the bomb.",
+   "setting": {
+    "era": "24 January 1961, farmland in North Carolina at night, winter",
+    "people_style": "a US Air Force airman in a 1960s parka seen from a distance",
+    "palette": "cold blue night, flashlights, wet ploughed field, bare trees"
+   },
+   "no_series_ref": false,
+   "motion": {
+    "shot": "low wide view across the furrows, wide lens, the bomb and parachute centred, the two small figures at the side.",
+    "b1": "the flashlight beams are already sweeping slowly over the casing; the parachute stirs.",
+    "b2": "the camera pushes in slowly on the casing; a beam settles on a small panel in its side.",
+    "b3": "the beam holds on the panel.",
+    "eye": "the parachute first, then the casing, then the small panel.",
+    "cam": "slow_push_in",
+    "keep": "one bomb casing, one parachute, exactly two distant figures who stay back; no text",
+    "end": "the flashlight beam on the small panel."
+   }
+  },
+  {
+   "id": "s021",
+   "beat": "inversion",
+   "narration_text": "Every time, one officer, one switch, one call said no. What if nothing had?",
+   "on_screen_text": "WHAT IF",
+   "claims": [],
+   "style": "landscape",
+   "people_count": 0,
+   "edit_from": null,
+   "chain_from": null,
+   "still": "A dark WINDOWLESS underground Cold War command room — solid concrete ceiling, no windows, no skylights, no daylight: a wall-sized world map glowing faint green, rows of consoles below it, and on a steel desk in the foreground one red telephone handset lying off its cradle, its coiled cord trailing; a single red warning lamp on the wall, currently DARK. Nobody in the room. no legible text, letters or numbers anywhere on screens or panels.",
+   "setting": null,
+   "no_series_ref": false,
+   "motion": {
+    "shot": "eye level across the desk, medium lens, the handset large, the dark lamp behind.",
+    "b1": "the room is already still, the map glowing faintly.",
+    "b2": "very slowly the red lamp comes on and begins to pulse; the camera pushes in on the handset.",
+    "b3": "the lamp pulsing, the handset filling the lower frame.",
+    "eye": "the dark lamp first, then its first pulse, then the handset.",
+    "cam": "slow_push_in",
+    "keep": "the same room; nobody enters; no text",
+    "end": "the red lamp pulsing over the handset."
+   }
+  },
+  {
+   "id": "s022",
+   "beat": "action",
+   "narration_text": "One warhead. Four hundred fifty-five kilotons. Above a city of eight million.",
+   "on_screen_text": "455 KT",
+   "claims": [
+    "The US W88 submarine-launched warhead has a yield of about 455 kilotons."
+   ],
+   "style": "landscape",
+   "people_count": 0,
+   "edit_from": null,
+   "chain_from": null,
+   "still": "a photoreal view of an ANONYMOUS, GENERIC Western-style city seen from about 20 kilometres away, from a high hillside across a wide bay: the whole metropolis — a dense cluster of glass towers downtown and endless low suburbs spreading left and right — sits as a thin band across the LOWER THIRD of the frame, the flat bay in front of it; the upper two-thirds is an enormous open dawn sky with a thin layer of high scattered clouds; deliberately unidentifiable: NOT resembling any real city, no landmarks, no signs, no text. A completely CALM, ordinary early morning: NO explosion, NO fire, NO smoke, NO damage anywhere — every building intact, soft golden light on the towers, a few lights still on in the suburbs, the bay flat and still. No people.",
+   "setting": {
+    "era": "present day, a simulation",
+    "region": "an anonymous modern city",
+    "people_style": "nobody",
+    "palette": "photoreal, cinematic; the specific light and colour of each shot is described in the shot itself",
+    "negative": "recognisable landmarks, people, bodies, injured people, blood, text, letters, numbers, logos, flags"
+   },
+   "no_series_ref": true,
+   "motion": {
+    "shot": "distant wide view from a hillside across the bay, long lens, camera locked, the skyline a thin band in the lower third, a huge sky above.",
+    "b1": "the city is already waking: a few window lights twinkle out as the sun rises; a faint haze drifts over the bay.",
+    "b2": "the camera holds; a thin white streak appears high in the sky at the top of the frame and falls straight down, fast, toward the downtown towers.",
+    "b3": "the streak's tip is just above the downtown towers; the calm city beneath it.",
+    "eye": "the huge calm sky first, then the falling streak, then the tiny towers.",
+    "cam": "static",
+    "keep": "the same anonymous skyline, locked camera; no landmarks; no text; no people",
+    "end": "the streak's tip just above the towers."
+   }
+  },
+  {
+   "id": "s023",
+   "beat": "action",
+   "narration_text": "Detonation. One second: a fireball a kilometre and a half wide. Inside it, nothing.",
+   "on_screen_text": "1.5 KM FIREBALL",
+   "claims": [
+    "A 455 kt airburst produces a fireball about 1.5 km across."
+   ],
+   "style": "landscape",
+   "people_count": 0,
+   "edit_from": "s022",
+   "chain_from": null,
+   "still": "Edit the attached image. Keep EXACTLY the same camera, framing, skyline and bay. Change ONLY this: a COLOSSAL fireball has just erupted above the downtown — a blinding white-yellow sphere as wide as the whole downtown tower cluster and several times taller than the tallest tower, its lower edge touching the rooftops; the entire landscape, bay and sky are lit stark white by it, every tower a thin black silhouette against it, long black shadows stretching from every building toward the camera; the clouds above glow orange. No people, no text.",
+   "setting": {
+    "era": "present day, a simulation",
+    "region": "an anonymous modern city",
+    "people_style": "nobody",
+    "palette": "photoreal, cinematic; the specific light and colour of each shot is described in the shot itself",
+    "negative": "recognisable landmarks, people, bodies, injured people, blood, text, letters, numbers, logos, flags"
+   },
+   "no_series_ref": true,
+   "motion": {
+    "shot": "distant wide view from a hillside across the bay, long lens, camera locked, the skyline a thin band in the lower third, a huge sky above.",
+    "b1": "the whole frame is almost pure white from the flash; the light settles so the giant sphere emerges over the skyline.",
+    "b2": "the sphere swells and boils, orange and red rolling across its surface; it begins to lift off the city, a dark column of dust sucked up beneath it; the towers under it vanish into the glare.",
+    "b3": "the giant boiling sphere lifting above a skyline of black silhouettes.",
+    "eye": "the white flash first, then the giant sphere, then the tiny silhouetted towers.",
+    "cam": "static",
+    "keep": "the locked camera and skyline; the sphere stays centred over downtown; no people; no text",
+    "end": "the giant fireball lifting over the silhouetted skyline."
+   }
+  },
+  {
+   "id": "s024",
+   "beat": "action",
+   "narration_text": "Then the blast wave. Five kilometres out it still flattens nearly every building.",
+   "on_screen_text": "5 KM / BUILDINGS COLLAPSE",
+   "claims": [
+    "For a 455 kt airburst the 5 psi blast radius, at which most residential buildings collapse, is about 5 km."
+   ],
+   "style": "landscape",
+   "people_count": 0,
+   "edit_from": "s023",
+   "chain_from": null,
+   "still": "Edit the attached image. Keep EXACTLY the same camera, framing, skyline and bay. Change ONLY this: the fireball has risen high into a towering boiling orange-black column climbing toward the top of the frame, and at ground level a GIGANTIC low wall of grey-white dust and debris — the blast wave — is racing outward from the centre in every direction, already wider than the whole downtown, swallowing the suburbs to the left and right; the downtown towers inside it are gone, only dust; a thin white dome of condensation hangs over the city. No people, no text.",
+   "setting": {
+    "era": "present day, a simulation",
+    "region": "an anonymous modern city",
+    "people_style": "nobody",
+    "palette": "photoreal, cinematic; the specific light and colour of each shot is described in the shot itself",
+    "negative": "recognisable landmarks, people, bodies, injured people, blood, text, letters, numbers, logos, flags"
+   },
+   "no_series_ref": true,
+   "motion": {
+    "shot": "distant wide view from a hillside across the bay, long lens, camera locked, the skyline a thin band in the lower third, a huge sky above.",
+    "b1": "the dust wall is already racing outward from the centre, swallowing the skyline, and already spilling out over the near shore of the bay.",
+    "b2": "FAST: within three seconds the wall of dust tears across the bay straight at the camera, the water whipped white ahead of it; it reaches the hillside — the grass and bushes in the foreground are flattened sideways, stones and leaves fly past the lens — and the grey wall slams into the camera, swallowing the whole frame.",
+    "b3": "the frame is filled with churning grey dust and flying debris rushing past the lens.",
+    "eye": "the dust wall first, then the whipped bay, then the flattened grass at the lens.",
+    "cam": "static",
+    "keep": "the locked camera position; one wave expanding once and hitting the camera; no people; no text",
+    "end": "churning grey dust filling the entire frame."
+   }
+  },
+  {
+   "id": "s025",
+   "beat": "action",
+   "narration_text": "Nine kilometres out, heat alone burns skin; at fifteen, windows burst inward.",
+   "on_screen_text": "9 KM / 15 KM",
+   "claims": [
+    "For a 455 kt airburst the third-degree burn radius is about 9 km and the window-shattering 1 psi radius about 15 km."
+   ],
+   "style": "landscape",
+   "people_count": 0,
+   "edit_from": null,
+   "chain_from": null,
+   "still": "Street level in an anonymous modern city, empty of people, looking down a long avenue toward the distant centre: parked cars, glass office facades, trees. At the far end of the avenue a blinding white light and a rising orange column; every window along the avenue is flashing white; the nearest trees are smoking. No people, no text.",
+   "setting": {
+    "era": "present day, a simulation",
+    "region": "an anonymous modern city",
+    "people_style": "nobody",
+    "palette": "photoreal, cinematic; the specific light and colour of each shot is described in the shot itself",
+    "negative": "recognisable landmarks, people, bodies, injured people, blood, text, letters, numbers, logos, flags"
+   },
+   "no_series_ref": true,
+   "motion": {
+    "shot": "eye level down the avenue, wide lens, the light at the vanishing point.",
+    "b1": "the white light at the end of the avenue is already blazing; the trees smoke and their leaves flare.",
+    "b2": "a wall of dust and glass comes up the avenue: every window bursts inward in sequence toward the camera, cars are shoved sideways, trees bend flat, a storm of glass and paper fills the air.",
+    "b3": "the storm engulfs the camera in grey.",
+    "eye": "the white light first, then the windows bursting in sequence, then the storm.",
+    "cam": "static",
+    "keep": "the empty avenue, no people; no text",
+    "end": "grey storm filling the frame."
+   }
+  },
+  {
+   "id": "s026",
+   "beat": "reveal",
+   "narration_text": "A city the size of New York: over a million dead in a day. One warhead.",
+   "on_screen_text": "1,000,000+ / IN A DAY",
+   "claims": [
+    "NUKEMAP estimates that a single 455 kt W88 airburst over New York City would kill about 1.26 million people within 24 hours."
+   ],
+   "style": "landscape",
+   "people_count": 0,
+   "edit_from": "s024",
+   "chain_from": null,
+   "still": "Edit the attached image. Keep EXACTLY the same camera, framing and bay. Change ONLY this: the dust has settled; a COLOSSAL mushroom cloud towers from where downtown stood, rising through and far above the cloud layer, its wide cap spreading near the top of the frame, its stem dark brown and lit orange from within at the base; the whole skyline is gone — across the entire horizon only a flat band of rubble, smoke and orange fires; the sky brown with smoke. No people, no text.",
+   "setting": {
+    "era": "present day, a simulation",
+    "region": "an anonymous modern city",
+    "people_style": "nobody",
+    "palette": "photoreal, cinematic; the specific light and colour of each shot is described in the shot itself",
+    "negative": "recognisable landmarks, people, bodies, injured people, blood, text, letters, numbers, logos, flags"
+   },
+   "no_series_ref": true,
+   "motion": {
+    "shot": "distant wide view from a hillside across the bay, long lens, camera locked, the skyline a thin band in the lower third, a huge sky above.",
+    "b1": "the fires are already flickering along the whole horizon; the cloud's cap slowly churns and spreads.",
+    "b2": "the camera pushes in very slowly; the mushroom cap keeps spreading wider; grey ash drifts down through the frame like snow.",
+    "b3": "ash falling in front of the towering cloud and the burning horizon.",
+    "eye": "the towering mushroom cloud first, then the burning horizon, then the falling ash.",
+    "cam": "slow_push_in",
+    "keep": "the locked layout; no people; no text",
+    "end": "ash falling before the towering cloud."
+   }
+  },
+  {
+   "id": "s027",
+   "beat": "scale",
+   "narration_text": "Now a full exchange between America and Russia: thousands of warheads. Every major city on two continents burns.",
+   "on_screen_text": "FULL EXCHANGE",
+   "claims": [
+    "A full US-Russia nuclear exchange would involve thousands of warheads."
+   ],
+   "style": "map",
+   "people_count": 0,
+   "edit_from": null,
+   "chain_from": null,
+   "still": "A photoreal view of the WHOLE planet Earth from deep space, the globe filling the frame against black space, NIGHT side facing the camera: the continents dark with the faint orange webs of city lights, the North American east coast and Europe/western Russia both visible on the curve; on that dark night side dozens of tiny brilliant white pinpoint flashes are scattered exactly where the cities are, each with a small orange glow around it, and thin dark smoke plumes beginning to stream from them. Black space above and around the globe. Not a map, not a relief model — a real planet seen from orbit. No text.",
+   "setting": {
+    "era": "present day, a simulation",
+    "region": "an anonymous modern city",
+    "people_style": "nobody",
+    "palette": "photoreal, cinematic; the specific light and colour of each shot is described in the shot itself",
+    "negative": "recognisable landmarks, people, bodies, injured people, blood, text, letters, numbers, logos, flags"
+   },
+   "no_series_ref": true,
+   "motion": {
+    "shot": "view from deep space, wide lens, the whole dark globe in frame, the flashes scattered across it.",
+    "b1": "flashes are already popping across the dark continents, each leaving an orange glow.",
+    "b2": "more and more flashes, dozens, then the glows merge into smears; dark smoke plumes stream from them.",
+    "b3": "the continents smouldering under spreading smoke.",
+    "eye": "the first flashes first, then the merging glows, then the smoke.",
+    "cam": "static",
+    "keep": "the Earth, the flashes, the smoke; no text",
+    "end": "two continents smouldering."
+   }
+  },
+  {
+   "id": "s028",
+   "beat": "scale",
+   "narration_text": "The fires loft a hundred fifty million tonnes of soot above the rain, for years.",
+   "on_screen_text": "150 MILLION / TONNES OF SOOT",
+   "claims": [
+    "A full US-Russia nuclear war could loft about 150 teragrams (150 million tonnes) of soot into the stratosphere."
+   ],
+   "style": "landscape",
+   "people_count": 0,
+   "edit_from": null,
+   "chain_from": null,
+   "still": "A photoreal view of the WHOLE planet Earth from deep space, the globe filling the frame against black space, DAY side: the familiar blue oceans and white clouds almost hidden under a spreading brown-black veil of smoke wrapping the entire northern hemisphere, thinner grey streaks reaching south across the equator, the veil's edge sharp against the black of space. Nothing else in frame — no buildings, no ground, no foreground, just the planet in space. No text.",
+   "setting": {
+    "era": "present day, a simulation",
+    "region": "an anonymous modern city",
+    "people_style": "nobody",
+    "palette": "photoreal, cinematic; the specific light and colour of each shot is described in the shot itself",
+    "negative": "recognisable landmarks, people, bodies, injured people, blood, text, letters, numbers, logos, flags"
+   },
+   "no_series_ref": true,
+   "motion": {
+    "shot": "view from space, wide lens, the whole globe in frame.",
+    "b1": "the brown veil is already creeping south across the equator.",
+    "b2": "the veil thickens and darkens over the north; the blue beneath dims to grey; the camera pushes in slowly.",
+    "b3": "the globe nearly dark under the veil.",
+    "eye": "the veil's edge first, then the dimming blue, then the dark north.",
+    "cam": "slow_push_in",
+    "keep": "the globe and the veil; no text",
+    "end": "a dim grey-brown Earth."
+   }
+  },
+  {
+   "id": "s029",
+   "beat": "scale",
+   "narration_text": "Sunlight drops. The planet cools around seven degrees. Summers frost. Harvests fail.",
+   "on_screen_text": "−7 °C",
+   "claims": [
+    "Climate models project that 150 Tg of stratospheric soot would cool the global average temperature by roughly 7 to 8 degrees Celsius."
+   ],
+   "style": "landscape",
+   "people_count": 0,
+   "edit_from": null,
+   "chain_from": null,
+   "still": "A vast wheat field in what should be midsummer under a dim brown-grey sky, the sun a pale disc: the wheat stunted and blackened, frost on the ground between the rows, a light snow falling, a lone farmhouse dark in the distance. No people, no text.",
+   "setting": {
+    "era": "present day, a simulation",
+    "region": "an anonymous modern city",
+    "people_style": "nobody",
+    "palette": "photoreal, cinematic; the specific light and colour of each shot is described in the shot itself",
+    "negative": "recognisable landmarks, people, bodies, injured people, blood, text, letters, numbers, logos, flags"
+   },
+   "no_series_ref": true,
+   "motion": {
+    "shot": "low wide view across the rows, wide lens, the pale sun centred.",
+    "b1": "snow is already drifting down over the blackened wheat; the pale sun barely shows.",
+    "b2": "the camera glides slowly forward along a row; frost glitters; the snow thickens.",
+    "b3": "snow falling steadily on the dead field.",
+    "eye": "the pale sun first, then the blackened wheat, then the snow.",
+    "cam": "slow_push_in",
+    "keep": "the field, the sky, the farmhouse; no people; no text",
+    "end": "snow on a dead field in summer."
+   }
+  },
+  {
+   "id": "s030",
+   "beat": "scale",
+   "narration_text": "Food production falls ninety percent. Within two years, five billion people starve.",
+   "on_screen_text": "5 BILLION",
+   "claims": [
+    "Xia et al. (2022) estimate that a US-Russia nuclear war would cut global calorie production by about 90% and more than 5 billion people would die of famine within two years."
+   ],
+   "style": "landscape",
+   "people_count": 0,
+   "edit_from": null,
+   "chain_from": null,
+   "still": "A long modern supermarket aisle, present day, completely empty: bare metal shelves on both sides stretching to the far end, a few crushed cartons on the floor, half the ceiling lights out, the others flickering. No people, no text or price labels.",
+   "setting": {
+    "era": "present day",
+    "people_style": "nobody",
+    "negative": "recognisable landmarks, people, bodies, injured people, blood, text, letters, numbers, logos, flags"
+   },
+   "no_series_ref": true,
+   "motion": {
+    "shot": "eye level down the aisle, wide lens, the bare shelves converging.",
+    "b1": "the remaining lights are already flickering; a torn carton stirs in a draught.",
+    "b2": "the camera glides slowly forward down the empty aisle; one more light goes out.",
+    "b3": "the aisle, darker, still empty.",
+    "eye": "the bare shelves first, then the flickering lights, then the far end.",
+    "cam": "slow_push_in",
+    "keep": "the empty aisle; no people; no text",
+    "end": "bare shelves in failing light."
+   }
+  },
+  {
+   "id": "s031",
+   "beat": "callback",
+   "narration_text": "That is what a submariner, a bunker officer and a forty-six-cent chip stood between us and.",
+   "on_screen_text": "WHAT STOOD / BETWEEN",
+   "claims": [],
+   "style": "landscape",
+   "people_count": 0,
+   "edit_from": null,
+   "chain_from": null,
+   "still": "A dark exhibition stage, black void, one warm overhead spotlight, and on a plain dark table under it three objects in a row: a brass submarine key, a black telephone receiver, and a tiny black computer chip, each lit, spaced evenly. Nothing else. No text.",
+   "setting": null,
+   "no_series_ref": true,
+   "motion": {
+    "shot": "eye level across the table, medium lens, the three objects in a row.",
+    "b1": "dust is not present; the spotlight is steady; the three objects still.",
+    "b2": "the camera glides slowly along the table from the key to the receiver to the chip.",
+    "b3": "the chip, last, small under the light.",
+    "eye": "the key first, then the receiver, then the chip.",
+    "cam": "static",
+    "keep": "exactly three objects on one table; the black void; no people; no text; no smoke or haze",
+    "end": "the tiny chip under the light."
+   }
+  },
+  {
+   "id": "s032",
+   "beat": "callback",
+   "narration_text": "At least five times, someone said no. Nothing guarantees the next person will be there.",
+   "on_screen_text": "NEXT TIME",
+   "claims": [],
+   "style": "landscape",
+   "people_count": 0,
+   "edit_from": "s021",
+   "chain_from": null,
+   "still": "The same dark WINDOWLESS underground command room — solid concrete ceiling, no skylight, no sky: the steel desk, the green wall map, the red warning lamp pulsing — and the red telephone handset now resting BACK on its cradle. Nobody. no legible text, letters or numbers anywhere on screens or panels.",
+   "setting": null,
+   "no_series_ref": false,
+   "motion": {
+    "shot": "eye level across the desk, medium lens, the handset on its cradle, the lamp behind.",
+    "b1": "the lamp is already pulsing slowly.",
+    "b2": "the camera pulls focus from the handset to the pulsing lamp and holds; then the lamp goes dark.",
+    "b3": "the room dim, the handset on its cradle.",
+    "eye": "the handset first, then the lamp, then the dark.",
+    "cam": "static",
+    "keep": "the same room; the handset stays on its cradle; nobody enters; no text",
+    "end": "the dark room, the handset resting."
+   }
+  }
+ ]
+}
